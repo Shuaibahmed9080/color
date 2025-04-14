@@ -4,7 +4,8 @@
     box-sizing: border-box;
 }
 body{
-    background-color:#595959;
+    /* background-color:#595959; */
+    background-color:blue;
     font-family: 'Roboto', sans-serif;
 }
 .container-box{
